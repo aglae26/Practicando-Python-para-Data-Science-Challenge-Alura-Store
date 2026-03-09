@@ -1,3 +1,4 @@
+# Practicando-Python-para-Data-Science-Challenge-Alura-Store
 📌 Descripción del proyecto
 
 Este proyecto forma parte del Challenge de Data Science de Alura Latam.
@@ -45,4 +46,3 @@ Los principales factores observados fueron:
 
 🗂 Jupyter Notebook
 
-# Practicando-Python-para-Data-Science-Challenge-Alura-Store
